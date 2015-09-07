@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SelectionManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Unit.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/SelectionManager.cs" Line="126" Column="5" />
+      <File FileName="Assets/Scripts/Util.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Interfaces/IMultipleSelectable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Interfaces/IInteractable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Interactions/InteractionManager.cs" Line="7" Column="57" />
+      <File FileName="Assets/Scripts/Interactions/Interaction.cs" Line="6" Column="17" />
+      <File FileName="Assets/Scripts/Interactions/MovementInteraction.cs" Line="38" Column="12" />
+      <File FileName="Assets/Scripts/Map.cs" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,68 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-1995522816
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=872 outsize=258 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=911 outsize=403 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=911 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=866 outsize=255 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (37): 'MainTexture' : undeclared identifier; 'tex2D' : cannot resolve function call unambiguously (check parameter types)\nCompiling Vertex program
+  api=0 type=0 insize=908 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=863 outsize=255 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=905 outsize=397 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=905 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=882 outsize=274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=905 outsize=397 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=905 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=541 outsize=1893 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=541 outsize=6 kw=SHADOWS_DEPTH ok=1
+Cmd: preprocess
+  insize=921 outsize=274 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (16): 'Color' : syntax error syntax error\nCompiling Vertex program
+  api=0 type=0 insize=944 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=922 outsize=274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=945 outsize=435 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=945 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=933 outsize=274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=956 outsize=464 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=956 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=924 outsize=274 ok=1
+Cmd: compileSnippet
+  error: 2 plat 0 at (39): 'return' : function return is not matching type:\nCompiling Vertex program
+  api=0 type=0 insize=947 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=924 outsize=274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=947 outsize=458 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=947 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=949 outsize=274 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=972 outsize=359 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=972 outsize=6 kw= ok=1
+Cmd: preprocess
+  insize=952 outsize=277 ok=1
+Cmd: preprocess
+  insize=927 outsize=277 ok=1
